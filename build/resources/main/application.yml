@@ -1,5 +1,0 @@
-spring:
-  application:
-    name: swagger-test-server
-server:
-  port: 8090
